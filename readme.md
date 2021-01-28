@@ -1,1 +1,1 @@
-<img src="mockup.jpg" alt="mockup"/>
+<img src="mokup.jpg" alt="mockup"/>
